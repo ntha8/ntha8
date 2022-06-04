@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Thao!
+- 👀 I’m interested in classical music, hiking, video games, and art.
+- 🌱 I’m currently learning React and web development.
+- 📫 How to reach me: httn2019@yahoo.com, thaowii on Instagram
